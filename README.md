@@ -2,7 +2,7 @@
 
 This is sample demo to show use of spark and apache ice-berg. Sample scripts under "scripts" folder would:
 - Create iceberg tables under .\warehouse directory
-- Update iceberg schema and shoe the reflection of same in query result
+- Update iceberg schema and show the reflection of same in query result
 - Change Partition of existing tables to see updated partition for newly inserted data
 - Snapshot based queries on iceberg tables
 
